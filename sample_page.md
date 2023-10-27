@@ -1,6 +1,7 @@
 ## Planning Data Visualization using the Five Design Sheets Methodology
 
 **Project description:**
+The dataset used for this project is available at <https://www.kaggle.com/datasets/ananthu017/california-wildfire-incidents-20132020>
 
 ### Sheet 1. Brainstorm 
 
