@@ -10,7 +10,8 @@
 
 ---
 [Dashboard for Water resource management](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<br>
+<img src="images/dashboard_water.png?raw=true"/>
 
 ---
 [H1-b EDA & Visualization](http://example.com/)
