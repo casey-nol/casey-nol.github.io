@@ -1,1 +1,1 @@
-<img src="images/dashboard-vid.gif?raw=true"/>
+<img src="images/dashboard_vid.gif?raw=true"/>
