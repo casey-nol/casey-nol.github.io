@@ -9,7 +9,7 @@
 <img src="images/IMG_0764.png" width="200"/>
 
 ---
-[Dashboard for Water resource management](/pdf/sample_presentation.pdf)
+[Dashboard for Water resource management](/Dashboard)
 <br>
 <img src="images/dashboard_water.png?raw=true"/>
 
