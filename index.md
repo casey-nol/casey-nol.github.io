@@ -5,7 +5,7 @@
 ### Projects
 
 [Five Design Sheets](/sample_page)
-<img src="images/IMG_0764.png?raw=true"/>
+<img src="images/IMG_0764.png?raw=true" width="200"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
