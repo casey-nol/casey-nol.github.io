@@ -8,24 +8,15 @@
 <img src="images/IMG_0764.png?raw=true" width="200"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Dashboard for Water resource management](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[H1-b EDA & Visualization](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
 
 
 
