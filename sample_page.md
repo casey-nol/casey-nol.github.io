@@ -6,15 +6,15 @@
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
-<img src="IMG_0764.png"/>
+<img src="images/IMG_0764.png"/>
 
 ### Sheets 2, 3, 4. Initial Designs
 
-<img src="IMG_0766.png"/>
-<img src="IMG_0769.png"/>
-<img src="IMG_0773.png"/>
+<img src="images/IMG_0766.png"/>
+<img src="images/IMG_0769.png"/>
+<img src="images/IMG_0773.png"/>
 
 ### Sheet 5. Realization Design
 
-<img src="IMG_0774.png"/>
+<img src="images/IMG_0774.png"/>
 
