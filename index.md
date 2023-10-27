@@ -5,6 +5,7 @@
 ### Projects
 
 [Five Design Sheets](/sample_page)
+<br>
 <img src="images/IMG_0764.png" width="200"/>
 
 ---
