@@ -5,7 +5,7 @@
 ### Projects
 
 [Five Design Sheets](/sample_page)
-<img src="images/IMG_0764.png?raw=true" width="200"/>
+<img src="images/IMG_0764.png" width="200"/>
 
 ---
 [Dashboard for Water resource management](/pdf/sample_presentation.pdf)
