@@ -14,8 +14,8 @@
 <img src="images/dashboard_water.png?raw=true"/>
 
 ---
-[H1-b EDA & Visualization](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[H1-b EDA & Visualization](/eda)
+<img src="images/eda.png?raw=true"/>
 
 ---
 
