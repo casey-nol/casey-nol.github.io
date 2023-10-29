@@ -14,8 +14,8 @@
 <img src="images/dashboard_water.png?raw=true"/>
 
 ---
-[H1-b EDA & Visualization](/eda)
-<img src="images/eda.png?raw=true"/>
+[H1-b EDA & Visualization](/pdf/notebook4de548ee90.pdf)
+<img src="images/choropleth.png?raw=true"/>
 
 ---
 
