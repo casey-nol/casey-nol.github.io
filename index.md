@@ -4,9 +4,13 @@
 
 ### Projects
 
-[Five Design Sheets](/sample_page)
+<!-- [Five Design Sheets](/sample_page)
 <br>
-<img src="images/IMG_0764.png" width="200"/>
+<img src="images/IMG_0764.png" width="200"/> -->
+
+[Adventure website design](/Dashboard)
+<br>
+<img src="images/dashboard_water.png?raw=true"/>
 
 ---
 [Dashboard for Water resource management](/Dashboard)
