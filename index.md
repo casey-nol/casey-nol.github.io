@@ -8,7 +8,7 @@
 <br>
 <img src="images/IMG_0764.png" width="200"/> -->
 
-[Adventure website design](/Dashboard)
+[Adventure website design](/adventure_website)
 <br>
 <img src="images/dashboard_water.png?raw=true"/>
 
@@ -18,12 +18,16 @@
 <img src="images/dashboard_water.png?raw=true"/>
 
 ---
-[H1-b EDA & Visualization](/pdf/notebook4de548ee90.pdf)
-<img src="images/choropleth.png?raw=true"/>
+<!-- [H1-b EDA & Visualization](/pdf/notebook4de548ee90.pdf)
+<img src="images/choropleth.png?raw=true"/> -->
+
+[Lemmatisation & IPA Transcription Tool](/streamlit)
+<img src="images/streamlittool"/>
 
 ---
 
-
+[Pai Website](/pai)
+<img src="images/streamlittool"/>
 
 
 
