@@ -22,12 +22,12 @@
 <img src="images/choropleth.png?raw=true"/> -->
 
 [Lemmatisation & IPA Transcription Tool](/streamlit)
-<img src="images/streamlittool"/>
+<img src="images/streamlittool.png"/>
 
 ---
 
 [Pai Website](/pai)
-<img src="images/streamlittool"/>
+<img src="images/Screenshot 2022-02-25 at 09.25.38.png"/>
 
 
 
