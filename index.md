@@ -10,7 +10,7 @@
 
 [Adventure website design](/adventure_website)
 <br>
-<img src="images/dashboard_water.png?raw=true"/>
+<img src="images/book.png?raw=true"/>
 
 ---
 [Dashboard for Water resource management](/Dashboard)
@@ -22,12 +22,12 @@
 <img src="images/choropleth.png?raw=true"/> -->
 
 [Lemmatisation & IPA Transcription Tool](/streamlit)
-<img src="images/streamlittool.png"/>
+<img src="images/streamlittool.png?raw=true"/>
 
 ---
 
 [Pai Website](/pai)
-<img src="images/Screenshot 2022-02-25 at 09.25.38.png"/>
+<img src="images/Screenshot 2022-02-25 at 09.25.38.png?raw=true"/>
 
 
 
