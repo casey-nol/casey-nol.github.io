@@ -8,6 +8,4 @@
 <img src="images/Screenshot 2022-02-25 at 09.25.07.png"/>
 
 
-**Project description:** 
-
 
