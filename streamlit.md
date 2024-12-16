@@ -8,6 +8,6 @@
 
 
 <video width="320" height="240" controls>
-  <source src="images/Screen Recording 2024-12-16 at 08.40.37.mov" type="video/mp4">
+  <source src="images/Screen Recording 2024-12-16 at 08.40.37.mov">
 Your browser does not support the video tag.
 </video>
