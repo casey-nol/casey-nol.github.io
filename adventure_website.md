@@ -5,7 +5,7 @@ The dataset used for this project is available at <https://www.kaggle.com/datase
 
 ### 1. Homepage 
 
-<img src="images/homepage.png"/>
+<img src="images/homepage.png" width="300"/>
 
 ### 2. Booking page
 
